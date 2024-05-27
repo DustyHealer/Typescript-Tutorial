@@ -8,3 +8,5 @@
 1. We can write code OOP way.
 2. Type checking at the compile time.
 3. Code is well managed
+
+Developed by Microsoft. Influenced by Javascript (Launched - 1:oct:2012)
