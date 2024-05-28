@@ -27,3 +27,8 @@ Typescript assigns a datatype to the variable based on the value which is assign
 
 Pros - Can pass any data - string, number, boolean, object, etc
 Cons - It can increases chances of runtime error. So minimize its usage in program.
+
+# Compile multiple TS files in a single go
+
+tsc -init : This command will create a tsconfig.json file.
+tsc --watch or tsc -w: Will run typescript in watch mode. It will automatically create javascript for all the typescript files dynamically as it detect any changes.
