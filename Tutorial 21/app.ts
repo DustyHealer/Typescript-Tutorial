@@ -1,3 +1,4 @@
 console.log('This is app file');
 
-var number: string = 'Himanshu';
+let number: string = 'Himanshu';
+const item = 123;
